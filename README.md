@@ -1,13 +1,13 @@
 # Demo Projects linking Social Connection
 
-This repository consists the projects which is featured in different social media articles. This is truly for educational purpose which is mostly about Android Development.
+This repository consists the projects which are featured in different social media articles. This is truly for educational purposes, which is mostly about Android Development.
 
 You may use these projects as you please.
 
 <br>
 <br>
 
-> Knowledge grows when shared. Share when should, or you can. :)
+> Knowledge grows when shared. Share when you should, or you can. :)
 
 <br>
 <br>
